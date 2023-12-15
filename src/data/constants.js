@@ -1,3 +1,4 @@
+import gym from './gym.png';
 export const Bio = {
   name: "Dinesh Paudel",
   roles: [
@@ -109,7 +110,7 @@ export const experiences = [
   {
     id: 0,
     img: "https://cdn5.vectorstock.com/i/1000x1000/98/64/fitness-gym-logo-with-strong-athlete-and-barbell-vector-24189864.jpg",
-    role: "I have worked for My First Collage Project Which Name Called Gym Management System",
+    role: "I have worked for My First College Project Which Name Called Gym Management System",
     company: "Patan Multiple Campus Lalitpur",
     date: "sepetember 2023 - November 2023",
     desc: "",
@@ -154,7 +155,7 @@ export const education = [
     date: "jan 2017 - Sep 2019",
     grade: "3.12 CGPA",
     desc: "I have done my 11 & 12 at GhodaGhodi Multiple Campus",
-    degree: "",
+    degree: "National Examination Board(NEB)",
   },
   {
     id: 1,
@@ -175,7 +176,7 @@ export const projects = [
     description:
       "Gym Management System is one of the online System Where user and Admin can interact with each other.",
     image:
-    "https://themeforest.img.customer.envatousercontent.com/files/459791502/01_Preview.png?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=300&s=680c35e12dc2cee82a3c0444c32cbcd0",
+    "https://scontent-pnq1-1.xx.fbcdn.net/v/t39.30808-6/409849097_1650972925308958_2134143326894955391_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=_TusPC9soxQAX-z339j&_nc_ht=scontent-pnq1-1.xx&oh=00_AfAWQNK-wQNJLXhA6nJICIG8thMAwvHBIQFNSEIa_oiwrQ&oe=6580148F",
     tags: [
       "HTML",
       "CSS",
