@@ -7,6 +7,8 @@ import jamana from "../images/jamana.png";
 import school from "../images/school.webp";
 import chalau from "../images/Chalau.png";
 import elearning from "../images/project3.png";
+import cv from "../images/cv.pdf"
+
 export const Bio = {
   name: "Dinesh Paudel",
   roles: ["Front End Developer", "Designer", "Programmer"],
@@ -18,6 +20,7 @@ export const Bio = {
   twitter: "https://twitter.com/?lang=en",
   insta: "https://www.instagram.com/divashpaudel/",
   facebook: "https://www.facebook.com/satiingraju.sattingraju/",
+  resume: cv,
 };
 
 export const skills = [
