@@ -1,16 +1,19 @@
-import gym from './gym.png';
+import gym from "../images/images.png";
+import tailwind from "../images/tailwind.png";
+import javaspring from "../images/java.webp";
+import sql from "../images/sql.png";
+import postman from "../images/postman.webp";
+import jamana from "../images/jamana.png";
+import school from "../images/school.webp";
+import chalau from "../images/Chalau.png";
+import elearning from "../images/project3.png";
 export const Bio = {
   name: "Dinesh Paudel",
-  roles: [
-    "Front End Developer",
-    "Designer",
-    "Programmer",
-  ],
+  roles: ["Front End Developer", "Designer", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/dineshpaudel1",
-  resume:
-    "",
+  resume: "",
   linkedin: "https://www.linkedin.com/in/dinesh-paudel-940b4b252/",
   twitter: "https://twitter.com/?lang=en",
   insta: "https://www.instagram.com/divashpaudel/",
@@ -23,6 +26,11 @@ export const skills = [
     skills: [
       {
         name: "React Js",
+        image:
+          "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
+      },
+      {
+        name: "React-Native",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
@@ -46,20 +54,28 @@ export const skills = [
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
       },
+      {
+        name: "Tailwind",
+        image: tailwind,
+      },
     ],
   },
   {
     title: "Backend",
     skills: [
       {
-        name: "PHP",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png",
+        name: "jAVA",
+        image: javaspring,
       },
-      
+      {
+        name: "Php",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png",
+      },
+
       {
         name: "MySQL",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+        image: sql,
       },
     ],
   },
@@ -76,31 +92,19 @@ export const skills = [
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJn9WTcNuoGcV98WFyIA-Mv_bdQOEMBpfczX2Z_66VQ&s",
       },
-
     ],
   },
   {
     title: "Others",
     skills: [
       {
-        name: "Git",
-        image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
-      },
-      {
         name: "GitHub",
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       {
-        name: "VS Code",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
-      },
-      {
         name: "Postman",
-        image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+        image: postman,
       },
     ],
   },
@@ -109,41 +113,49 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://cdn5.vectorstock.com/i/1000x1000/98/64/fitness-gym-logo-with-strong-athlete-and-barbell-vector-24189864.jpg",
-    role: "I have worked for My First College Project Which Name Called Gym Management System",
-    company: "Patan Multiple Campus Lalitpur",
-    date: "sepetember 2023 - November 2023",
-    desc: "",
-    skills: [
-      "Frontend Handler",
-      "Designer",
-    ],
+    img: chalau,
+    role: "Chalau Mobile App(frontend developer(React-native))",
+    company: "Yuwasoft Technologies",
+    date: "sepetember 2024 - now",
+    desc: "I had the incredible opportunity to work as a React Native Developer on the Chalau project, a dynamic and challenging platform. Collaborating with a talented team, I contributed to developing a feature-rich mobile application that emphasized real-time map integrations, efficient UI/UX design, and robust backend connectivity. (now Chalau is available on playstore)",
+    skills: ["React-Native,Postman"],
   },
   {
     id: 1,
-    img: "https://jamanastudio.com/images/logo.png",
-    role: "I have worked for jamana studio website which is My First Outsource Project",
+    img: jamana,
+    role: "Jamana Studio(frontend developer(Html,css,javascript))",
     company: "Jamana studio Lalitpur",
-    date: "sepetember 2023 - November 2023",
+    date: "sepetember 2023 - December 2023",
     desc: "Working on Jamana studio project i got chance to learn how to deal with Clients and Many More",
-    skills: [
-      "Frontend Handler",
-      "Designer",
-    ],
+    skills: ["Html", "CSS", "Javascript", "Laravel", "Mysql"],
   },
   {
     id: 2,
-    img: "https://www.shutterstock.com/image-vector/vector-logo-school-260nw-427910128.jpg",
+    img: elearning,
+    role: "E-learning Platform(College Project)",
+    company: "Patan Multiple Campus",
+    date: "June 2024 - December first",
+    desc: "I had the privilege of working on the Learn-Up project as a React.js Frontend and Backend using Spring Boot. This e-learning platform was designed to provide a seamless user experience for learners and administrators, featuring course management, user registration, and dynamic content delivery.",
+    skills: ["React-js,Tailwind,Springboot,Mysql"],
+  },
+  {
+    id: 3,
+    img: gym,
+    role: "Gym Management System",
+    company: "Patan Multiple Campus Lalitpur",
+    date: "sepetember 2023 - December 2023",
+    desc: "Led a comprehensive project to develop and implement a Gym Management System aimed at enhancing operational efficiency, member satisfaction, and revenue generation",
+    skills: ["Html, Css, Ajax, Jquery, PHP , Javascript"],
+  },
+
+  {
+    id: 4,
+    img: school,
     role: "As a Primary School Teacher",
     company: "At Kailali",
     date: "June 2023 - Present",
     desc: "Working as a teacher i got chance to learn communication skill, leadership skill, Problem Solving Skill etc.",
-    skills: [
-      "Computer Science",
-      "Science",
-      "Social",
-      "Maths",
-    ],
+    skills: ["Computer Science", "Science", "Social", "Maths"],
   },
 ];
 
@@ -170,36 +182,42 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: "Gym Management System",
-    date: "May 2023 - December 2023",
+    id: 0,
+    title: "Chalau Mobile App",
+    date: "sepetember 2024 - now",
     description:
-      "Gym Management System is one of the online System Where user and Admin can interact with each other.",
-    image:
-    "https://scontent-pnq1-1.xx.fbcdn.net/v/t39.30808-6/409849097_1650972925308958_2134143326894955391_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-7&_nc_sid=3635dc&_nc_ohc=_TusPC9soxQAX-z339j&_nc_ht=scontent-pnq1-1.xx&oh=00_AfAWQNK-wQNJLXhA6nJICIG8thMAwvHBIQFNSEIa_oiwrQ&oe=6580148F",
-    tags: [
-      "HTML",
-      "CSS",
-      "JAVASCRIPT",
-      "PHP",
-      "MY SQL",
-    ],
-    category: "web app",
-    github: "https://github.com/dineshpaudel1/first-project",
-    webapp: "",
+      "I had the incredible opportunity to work as a React Native Developer on the Chalau project, a dynamic and challenging platform. Collaborating with a talented team, I contributed to developing a feature-rich mobile application that emphasized real-time map integrations, efficient UI/UX design, and robust backend connectivity. (now Chalau is available on playstore)",
+    image: chalau,
+    tags: ["React-Native,Postman"],
+    category: "MobileApp",
+    github:
+      "https://play.google.com/store/apps/details?id=com.chalau_frontend&hl=en_US",
+    webapp:
+      "https://play.google.com/store/apps/details?id=com.chalau_frontend&hl=en_US",
   },
   {
-    id: 0,
+    id: 1,
     title: "Jamana Studio",
     date: "july 2023 - Dec 2023",
-    description:
-      "I have worked in jamana company as a web developer",
+    description: "I have worked in jamana company as a web developer",
     image:
       "https://lh3.googleusercontent.com/p/AF1QipN3YOGq0qqVGki8kf-e2CSkEP_9OjlWmTgTzJl-=s1360-w1360-h1020",
     tags: ["Html", "CSS", "Javascript", "Laravel", "Mysql"],
     category: "web app",
     github: "https://github.com/dineshpaudel1/jamanastudio",
     webapp: "https://jamanastudio.com/",
+  },
+  {
+    id: 2,
+    title: "Learn-Up",
+    date: "June 2024 - December first",
+    description:
+      "I had the privilege of working on the Learn-Up project as a React.js Frontend and Backend using Spring Boot. This e-learning platform was designed to provide a seamless user experience for learners and administrators, featuring course management, user registration, and dynamic content delivery.",
+    image: elearning,
+    tags: ["React-js,Tailwind,Springboot,Mysql"],
+    category: "web app",
+    github: "https://github.com/dineshpaudel1/jamanastudio",
+    webapp: "https://github.com/dineshpaudel1/jamanastudio",
   },
 ];
 
