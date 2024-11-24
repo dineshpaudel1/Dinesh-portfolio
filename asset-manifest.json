@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dineshpaudel1/react-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/dineshpaudel1/react-portfolio/static/js/main.c2082a8f.js",
+    "static/media/HeroImage.jpg": "/dineshpaudel1/react-portfolio/static/media/HeroImage.84b445ad88adaedaa3bc.jpg",
+    "static/media/java.webp": "/dineshpaudel1/react-portfolio/static/media/java.953f26a2b60d135beee8.webp",
+    "static/media/project3.png": "/dineshpaudel1/react-portfolio/static/media/project3.508ef681c8f0bb5390c9.png",
+    "static/media/postman.webp": "/dineshpaudel1/react-portfolio/static/media/postman.62045dd18a40c9637893.webp",
+    "static/media/school.webp": "/dineshpaudel1/react-portfolio/static/media/school.8abf50cb378f3fd76519.webp",
+    "index.html": "/dineshpaudel1/react-portfolio/index.html",
+    "main.bf538fe7.css.map": "/dineshpaudel1/react-portfolio/static/css/main.bf538fe7.css.map",
+    "main.c2082a8f.js.map": "/dineshpaudel1/react-portfolio/static/js/main.c2082a8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.c2082a8f.js"
+  ]
+}
