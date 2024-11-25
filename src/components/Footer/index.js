@@ -113,7 +113,9 @@ function Footer() {
             <GithubIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2025 Dinesh Paudel. All rights reserved.</Copyright>
+        <Copyright>
+          &copy; 2025 Dinesh Paudel. All rights reserved.Thankyou for Visit
+        </Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
