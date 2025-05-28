@@ -13,7 +13,7 @@ export const Bio = {
   name: "Dinesh Paudel",
   roles: ["Front End Developer", "Designer", "Programmer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I learned to build responsive UI using React and Tailwind CSS, fetch and display data from APIs, and manage state effectively. I also improved my skills in implementing authentication, handling form validations, and creating reusable components. Additionally, I explored React Native for mobile app development, integrating maps, filters, and real-time functionalities.",
   github: "https://github.com/dineshpaudel1",
   resume: "",
   linkedin: "https://www.linkedin.com/in/dinesh-paudel-940b4b252/",
