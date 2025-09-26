@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.0eeb2e79.js",
-    "static/media/cv.pdf": "/static/media/cv.fe6e878dfe137586c7fc.pdf",
-    "static/media/HeroImage.jpg": "/static/media/HeroImage.84b445ad88adaedaa3bc.jpg",
+    "main.js": "/static/js/main.58af850e.js",
+    "static/media/projekthub.png": "/static/media/projekthub.235ac238b2f4c018c95a.png",
+    "static/media/mygithub.png": "/static/media/mygithub.478b4c016c3bdbd40779.png",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.d6ce9ce28a3a690b376e.jpg",
+    "static/media/Chalauapp.png": "/static/media/Chalauapp.fda281b14fc93d70690f.png",
+    "static/media/cv.pdf": "/static/media/cv.8dd5e183130ad6bf6549.pdf",
     "static/media/java.webp": "/static/media/java.953f26a2b60d135beee8.webp",
     "static/media/project3.png": "/static/media/project3.508ef681c8f0bb5390c9.png",
     "static/media/postman.webp": "/static/media/postman.62045dd18a40c9637893.webp",
-    "static/media/school.webp": "/static/media/school.8abf50cb378f3fd76519.webp",
     "index.html": "/index.html",
     "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.0eeb2e79.js.map": "/static/js/main.0eeb2e79.js.map"
+    "main.58af850e.js.map": "/static/js/main.58af850e.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.0eeb2e79.js"
+    "static/js/main.58af850e.js"
   ]
 }
